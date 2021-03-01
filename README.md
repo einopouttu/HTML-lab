@@ -1,2 +1,2 @@
-# HTML-lab
-HTML courses and projects
+# PHP-lab
+HTML and CSS courses and projects
